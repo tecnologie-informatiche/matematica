@@ -25,7 +25,7 @@ Per esempio la formula chimica dell'acqua si scriverà:
     
 La funzione matematica potenza si scriverà:
 
-    $$ y = x ^ {n}
+    $$ y = x ^ {n} $$
 
 #### Frazioni
 
